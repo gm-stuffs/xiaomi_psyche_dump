@@ -1,0 +1,14 @@
+# missi_phoneext4_global-user 13 TKQ1.221114.001 V816.0.1.0.TLDMIXM release-keys
+- manufacturer: xiaomi
+- platform: kona
+- codename: psyche
+- flavor: missi_phoneext4_global-user
+- release: 13
+- id: TKQ1.221114.001
+- incremental: V816.0.1.0.TLDMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/psyche_global/psyche:13/RKQ1.211001.001/V816.0.1.0.TLDMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: missi_phoneext4_global-user-13-TKQ1.221114.001-V816.0.1.0.TLDMIXM-release-keys
+- repo: xiaomi_psyche_dump

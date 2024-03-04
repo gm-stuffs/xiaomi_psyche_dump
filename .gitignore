@@ -1,0 +1,13 @@
+product/app/Messages/Messages.apk
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk
+product/priv-app/Velvet/Velvet.apk
+product/data-app/SmartHome/SmartHome.apk
+product/data-app/MIBrowserGlobal_removable/MIBrowserGlobal_removable.apk
+vendor/etc/camera/st_license.lic
+vendor/lib64/libxmi_high_dynamic_range_cdsp.so
+boot.img
+modem.img
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
